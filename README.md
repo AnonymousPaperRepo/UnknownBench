@@ -1,7 +1,7 @@
 # README
 
-This is the repository for the paper, [Prudent Silence or Foolish Babble? Examining Large Language Models' Responses to the Unknown
-](https://arxiv.org/abs/2311.09731)
+This is the repository for the paper, *Prudent Silence or Foolish Babble? Examining Large Language Models' Responses to the Unknown*
+
 
 
 ## Setup for running the logit experiments on LLama-2 
