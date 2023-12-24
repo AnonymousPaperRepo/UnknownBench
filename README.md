@@ -68,13 +68,5 @@ The prompts used in this repo can be found in the `prompts/` folder.
 All the benchmark data can be found in the `data/` folder.
 
 ## Citation
-```
-@misc{liu2023prudent,
-      title={Prudent Silence or Foolish Babble? Examining Large Language Models' Responses to the Unknown}, 
-      author={Genglin Liu and Xingyao Wang and Lifan Yuan and Yangyi Chen and Hao Peng},
-      year={2023},
-      eprint={2311.09731},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
-}
-```
+
+TBA
